@@ -32,9 +32,9 @@ Tipo: Tarefa do usuário
 
 O teste avalia a tarefa de acessar os detalhes de uma ocorrência não respondida. A ideia é verificar se o caminho até essa informação é claro e se os elementos da interface ajudam o usuário a tomar a decisão certa sem esforço excessivo.
 
-## 3. Conjunto de perguntas (Técnica do Funil)
+## 3. Conjunto de perguntas usando a técnica do Funil
 
-As perguntas seguem a lógica do funil: começam pela leitura geral da interface, passam pela identificação da ocorrência correta dentro da lista e terminam na ação específica de abrir seus detalhes.
+Lógica do funil: começam pela leitura geral da interface, passam pela identificação da ocorrência correta dentro da lista e terminam na ação específica de abrir seus detalhes.
 
 | # | Pergunta | Nível do funil | Justificativa |
 |---|---|---|---|
